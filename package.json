@@ -1,0 +1,22 @@
+{
+    "name": "monokai-dimmed-bluebg-softcolors",
+    "displayName": "Monokai Dimmed - BlueBg - SoftColors",
+    "description": "Monokai Dimmaed with blue background and soft colors",
+    "version": "0.0.1",
+    "publisher": "somq",
+    "engines": {
+        "vscode": "^1.17.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monokai - Dimmed - Blue background & soft colors",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Monokai - Dimmed - Blue background & soft colors-color-theme.json"
+            }
+        ]
+    }
+}
